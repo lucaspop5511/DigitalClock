@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'Danfo';
+    src: url('FONTS/Danfo/Danfo-Regular-VariableFont_ELSH.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Nabla';
+    src: url('Fonts/Nabla/Nabla-Regular-VariableFont_EDPT\,EHLT.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Poetsen';
+    src: url('Fonts/Poetsen_One/PoetsenOne-Regular.ttf') format('truetype');
+}
